@@ -12,8 +12,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/[YourLinkedInProfile]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[YourLinkedInProfile]" height="30" width="40" /></a>
-<a href="https://github.com/[YourGitHubProfile]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="[YourGitHubProfile]" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sm-touhidur-rahman/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[YourLinkedInProfile]" height="30" width="40" /></a>
+<a href="https://github.com/TouhidurRahman24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="[YourGitHubProfile]" height="30" width="40" /></a>
 </p>
 
 <br>
@@ -51,4 +51,4 @@ Passionate MERN stack developer with a solid foundation in full-stack web applic
 ### Education:
 
 - Bachelor of Science (B.Sc.) in Computer Science and Engineering
-- Bangladesh University of Business and Technology (BUBT)
+  Bangladesh University of Business and Technology (BUBT)
